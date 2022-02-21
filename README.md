@@ -28,19 +28,21 @@ Additionally, the user can toggle the filters to see any combination of the abov
 
 ## Images
 
-### 
-
-Default map showing all filters toggled on:
+### Default map showing all filters toggled on:
 
 <img src="https://github.com/crtallent/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Street%20Map.png"/>
 
-Dark map showing only tectonic plates filter:
+### Dark map showing only tectonic plates filter:
 
 <img src="https://github.com/crtallent/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Dark%20plates%20only.png"/>
 
-Satellite map showing earthquake data:
+### Satellite map showing earthquake data:
 
 <img src="https://github.com/crtallent/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Sat%20EQ%20only.png"/>
+
+### Night navigation map showing only major earthquake data:
+
+<img src="https://github.com/crtallent/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Night%20nav%20me%20only.png"/>
                                                                                                                      
 
 
