@@ -7,7 +7,31 @@ In this project, we are tasked with showing the differences between the magnitud
 ## Resources
 
 - Software: JavaScript 1.7, Mapbox v2.7.0, Leaflet 1.7.1
-- Data Resources: [GeoJSON files](https://github.com/crtallent/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic.js)
+- Data Sources: [GeoJSON files](https://github.com/crtallent/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic.js)
 
+## Feautures
+
+Three map layers were added so that the user can filter earthquake data as follows:
+
+1. A view of all earthquakes within the last seven days
+2. A view of all the major earthquakes (magnitudes greater than 4.5) within the last seven days
+3. A view of the tectonic plates across the world
+
+Additionally, the user can toggle the filters to see any combination of the above, or choose to toggle all filters off to just see the world map.  Map view preferences are included as well:
+
+1. Streets View (default)
+2. Satellite View
+3. Day View
+4. Night View
+5. Light View 
+6. Dark View
+
+## Images
+
+### 
+
+Default map showing all filters toggled on:
+
+<img src="https://github.com/crtallent/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Street%20Map.png"/>
 
 
