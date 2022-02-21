@@ -36,7 +36,7 @@ Default map showing all filters toggled on:
 
 Dark map showing only tectonic plates filter:
 
-<img src="https://github.com/crtallent/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Dark%20plates%20only.png/>
+<img src="https://github.com/crtallent/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Dark%20plates%20only.png"/>
 
 Satellite map showing earthquake data:
 
