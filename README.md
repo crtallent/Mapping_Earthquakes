@@ -34,4 +34,13 @@ Default map showing all filters toggled on:
 
 <img src="https://github.com/crtallent/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Street%20Map.png"/>
 
+Dark map showing only tectonic plates filter:
+
+<img src="https://github.com/crtallent/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Dark%20plates%20only.png/>
+
+Satellite map showing earthquake data:
+
+<img src="https://github.com/crtallent/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Sat%20EQ%20only.png"/>
+                                                                                                                     
+
 
